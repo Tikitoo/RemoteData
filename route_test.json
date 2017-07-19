@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
+            "remote_file": "https://raw.githubusercontent.com/douban/rexxar-web/master/example/dist/rexxar/demo-252452ae58.html",
+            "uri": "douban://douban.com/rexxar_demo[/]?.*"
+        },
+        {
+            "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
+            "remote_file": "http://m.you.163.com/item/list?categoryId=1019000",
+            "uri": "tikitoo://tikitoo.com/yanxuan"
+        },
+        {
+            "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
+            "remote_file": "http://tikitoo.github.io/about",
+            "uri": "tikitoo://tikitoo.com/about"
+        }
+    ],
+    "partial_items": [
+        {
+            "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
+            "remote_file": "https://raw.githubusercontent.com/douban/rexxar-web/master/example/dist/rexxar/demo-252452ae58.html",
+            "uri": "douban://partial.douban.com/rexxar_demo/_.*"
+        }
+    ],
+    "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT"
+}
