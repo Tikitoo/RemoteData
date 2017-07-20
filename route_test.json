@@ -14,6 +14,11 @@
             "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
             "remote_file": "http://tikitoo.github.io/about",
             "uri": "tikitoo://tikitoo.com/about"
+        },
+        {
+          "deploy_time": "Sun, 09 Oct 2016 05:54:22 GMT",
+          "remote_file": "https://home.mi.com/about",
+          "uri": "tikitoo://tikitoo.com/about_mi_home"
         }
     ],
     "partial_items": [
